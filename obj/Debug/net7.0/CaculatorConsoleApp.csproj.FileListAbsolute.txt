@@ -1,0 +1,15 @@
+E:\New folder (2)\CaculatorConsoleApp\bin\Debug\net7.0\CaculatorConsoleApp.exe
+E:\New folder (2)\CaculatorConsoleApp\bin\Debug\net7.0\CaculatorConsoleApp.deps.json
+E:\New folder (2)\CaculatorConsoleApp\bin\Debug\net7.0\CaculatorConsoleApp.runtimeconfig.json
+E:\New folder (2)\CaculatorConsoleApp\bin\Debug\net7.0\CaculatorConsoleApp.dll
+E:\New folder (2)\CaculatorConsoleApp\bin\Debug\net7.0\CaculatorConsoleApp.pdb
+E:\New folder (2)\CaculatorConsoleApp\obj\Debug\net7.0\CaculatorConsoleApp.csproj.AssemblyReference.cache
+E:\New folder (2)\CaculatorConsoleApp\obj\Debug\net7.0\CaculatorConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder (2)\CaculatorConsoleApp\obj\Debug\net7.0\CaculatorConsoleApp.AssemblyInfoInputs.cache
+E:\New folder (2)\CaculatorConsoleApp\obj\Debug\net7.0\CaculatorConsoleApp.AssemblyInfo.cs
+E:\New folder (2)\CaculatorConsoleApp\obj\Debug\net7.0\CaculatorConsoleApp.csproj.CoreCompileInputs.cache
+E:\New folder (2)\CaculatorConsoleApp\obj\Debug\net7.0\CaculatorConsoleApp.dll
+E:\New folder (2)\CaculatorConsoleApp\obj\Debug\net7.0\refint\CaculatorConsoleApp.dll
+E:\New folder (2)\CaculatorConsoleApp\obj\Debug\net7.0\CaculatorConsoleApp.pdb
+E:\New folder (2)\CaculatorConsoleApp\obj\Debug\net7.0\CaculatorConsoleApp.genruntimeconfig.cache
+E:\New folder (2)\CaculatorConsoleApp\obj\Debug\net7.0\ref\CaculatorConsoleApp.dll
